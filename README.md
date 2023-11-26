@@ -30,14 +30,11 @@
 
 <h2>Punto 7: Selección de operación aritmética</h2>
 
-<img src="./public/images/punto-7-1.png" alt="punto-7">
-<img src="./public/images/punto-7-2.png" alt="punto-7">
-<img src="./public/images/punto-7-3.png" alt="punto-7">
+<img src="./public/images/punto-7.png" alt="punto-7">
 
 <h2>Punto 8: Entrada a la bolera usando switch</h2>
 
-<img src="./public/images/punto-8-1.png" alt="punto-8">
-<img src="./public/images/punto-8-2.png" alt="punto-8">
+<img src="./public/images/punto-8.png" alt="punto-8">
 
 <h2>Punto 9: Tabla de multiplicar usando while</h2>
 
@@ -45,13 +42,11 @@
 
 <h2>Punto 10: Números pares usando while</h2>
 
-<img src="./public/images/punto-10-1.png" alt="punto-10">
-<img src="./public/images/punto-10-2.png" alt="punto-10">
+<img src="./public/images/punto-10.png" alt="punto-10">
 
 <h2>Punto 11: Número impares usando for</h2>
 
-<img src="./public/images/punto-11-1.png" alt="punto-11">
-<img src="./public/images/punto-11-2.png" alt="punto-11">
+<img src="./public/images/punto-11.png" alt="punto-11">
 
 <h2>Punto 12: Tabla de multiplicar usando for</h2>
 
