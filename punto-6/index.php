@@ -8,7 +8,7 @@
   echo "Digita tu edad: ";
   $ageUser = readline();
 
-  if ($ageUser >= 18) {
+  if ($ageUser >= 20) {
     echo $nameUser . ", eres mayor de edad.";
   }
 

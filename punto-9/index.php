@@ -5,7 +5,7 @@
   echo "Digita el número al que deseas generar la tabla de multiplicar: ";
   $number = readline();
 
-    while ($i <= 30) {
+    while ($i <= 35) {
         echo $number . " X " . $i . " = " . ($number * $i) . "\n" ;
         $i++;
     }

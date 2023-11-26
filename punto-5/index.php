@@ -1,5 +1,5 @@
 <?php
-  const TICKET_PRICE = 25000;
+  const TICKET_PRICE = 26000;
   $typeMembership = "";
   $numberPersons = 0;
 
