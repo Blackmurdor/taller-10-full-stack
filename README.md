@@ -58,4 +58,10 @@
 
 <h2>Punto 14: Revisión de contraseña</h2>
 
+<img src="./public/images/punto-14-1.png" alt="punto-14">
+<img src="./public/images/punto-14-2.png" alt="punto-14">
+
 <h2>Punto 15: Selección de operación aritmética usando funciones</h2>
+
+<img src="./public/images/punto-15-1.png" alt="punto-15">
+<img src="./public/images/punto-15-2.png" alt="punto-15">

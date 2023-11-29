@@ -1,11 +1,9 @@
 <?php
-  // 1. Funcion para poder obtener un número 
   function getNumber() {
     echo "Digita un número para operar: ";
     return readline();
   }
 
-  // 2. Función para mostar menu y retornar respuesta 
   function showMenu() {
     echo "Selecciona la operacion que deseas realizar según: \n";
     echo " + --> Suma \n";
@@ -15,7 +13,6 @@
     return  readline();// String
   }
 
-  // 3. funcion que realice la operacion correcta
   function operate($x, $y, $option){
     switch($option) {
       case "+":
@@ -32,7 +29,6 @@
     }
   }
 
-  // 4. funciones por cada operación
   function add($x, $y){
     return $x + $y;
   }
